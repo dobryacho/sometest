@@ -1,0 +1,1 @@
+import{j as r}from"./main-B81AgsTK.js";function e(){return r.jsx("div",{children:r.jsx("iframe",{src:"https://yandex.ru/map-widget/v1/?um=constructor%3A661f1f854400f022b8de1f1d682abd0a2c54c6d6ec60ab65a7a9b2492e9355f5&source=constructor",width:"600",height:"450",frameBorder:"0"})})}export{e as default};
